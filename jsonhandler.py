@@ -198,12 +198,9 @@ class JsonHandler:
     def show_inventory_inventory_embed_ids(self): # This function is for when you would like to display all the inventory inventory embed IDs in characterinventory.json
         self.load_data()
         print_str = ""
-        for title, value in self.inventory.items():
-            _ = title
-            # print_str += f"{title} -\n"
-            for sid, items in value['Inventory'].items():
+        for value in self.inventory.values():
+            for items in value['Inventory'].values():
                 print_str += f"{items['Character_Inventory_Embed']},"
-                _ = sid # this sets it to nothing and we have no problems in code
         return print_str         
 
 
@@ -231,3 +228,4 @@ class JsonHandler:
 #                 print_str += f"{items['Character_Inventory_Embed']},"
 #                 _ = sid # this sets it to nothing and we have no problems in code
 #         return print_str    
+
