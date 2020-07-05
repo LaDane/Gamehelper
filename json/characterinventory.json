@@ -1,0 +1,56 @@
+{
+    "212238899613925376": {
+        "User": "LaDane#4201",
+        "Character": "Dane",
+        "inventory Channel ID": 703342812804153535,
+        "Used slots": 48,
+        "Bag slots": 50,
+        "Backpack Embed ID": 703342817153384590,
+        "Inventory": {
+            "1": {
+                "WorldID": "3",
+                "Quantity": 4,
+                "Character Inventory Embed": 703738426050084966
+            },
+            "3": {
+                "WorldID": "1",
+                "Quantity": 2,
+                "Character Inventory Embed": 703738570225090580
+            },
+            "6": {
+                "WorldID": "2",
+                "Quantity": 2,
+                "Character Inventory Embed": 703742502305267763
+            }
+        }
+    },
+    "651195462245941278": {
+        "User": "jaquai#0215",
+        "Character": "Boris",
+        "inventory Channel ID": 703344885520138310,
+        "Used slots": 20,
+        "Bag slots": 50,
+        "Backpack Embed ID": 703344890943373313,
+        "Inventory": {
+            "4": {
+                "WorldID": "1",
+                "Quantity": 1,
+                "Character Inventory Embed": 703738749112287384
+            },
+            "5": {
+                "WorldID": "2",
+                "Quantity": 1,
+                "Character Inventory Embed": 703742467920494662
+            }
+        }
+    },
+    "176752007355301888": {
+        "User": "MeM#0704",
+        "Character": "Maqua",
+        "inventory Channel ID": 729307035434352730,
+        "Used slots": 0,
+        "Bag slots": 50,
+        "Backpack Embed ID": 729307039951749201,
+        "Inventory": {}
+    }
+}

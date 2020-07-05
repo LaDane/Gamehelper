@@ -1,0 +1,40 @@
+{
+    "Ulvens Grotte": {
+        "ShopOwner": "Wolf Head",
+        "ShopCurrency": "Kreditter",
+        "ShopPicture": "https://media.discordapp.net/attachments/617058546558959616/690204913589813279/artur-kordas-dw-npc-wolf.jpg?width=803&height=638",
+        "Stock": {
+            "1": {
+                "WorldID": "1",
+                "Quantity": 5,
+                "BuyStockMsgID": 703345613726810213
+            },
+            "4": {
+                "WorldID": "2",
+                "Quantity": 12,
+                "BuyStockMsgID": 703395972457431050
+            }
+        },
+        "ShopCategoryID": 703344471663706163,
+        "ShopBuyID": 703344472850956349
+    },
+    "Brost's Kammer": {
+        "ShopOwner": "Hr Brost",
+        "ShopCurrency": "Kreditter",
+        "ShopPicture": "https://media.discordapp.net/attachments/617058546558959616/690205284878385383/2_-_Hr._Brost.jpg?width=1012&height=638",
+        "Stock": {
+            "3": {
+                "WorldID": "3",
+                "Quantity": 48,
+                "BuyStockMsgID": 703389357205356625
+            },
+            "5": {
+                "WorldID": "3",
+                "Quantity": 17,
+                "BuyStockMsgID": 703735623978188921
+            }
+        },
+        "ShopCategoryID": 703344702501421177,
+        "ShopBuyID": 703344703633883226
+    }
+}

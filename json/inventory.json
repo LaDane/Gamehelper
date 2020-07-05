@@ -1,0 +1,46 @@
+{
+    "1": {
+        "Inventory_Name": "Vognen",
+        "Description": "Jeres steampunk hestevogn ( bare uden heste )",
+        "Used_Slots": 10,
+        "Bag_Slots": "300",
+        "Picture": "https://media.discordapp.net/attachments/702891924775895070/703347969604190378/unknown.png?width=1006&height=638",
+        "Kreditter": 5,
+        "Imperille Kreditter": 100,
+        "Skindene Sten": 85,
+        "Inventory_Category_ID": 703348152346083348,
+        "Store_Items_Channel_ID": 703348153189138582,
+        "Inventory_Channel_ID": 703348156338929764,
+        "Currency_Embed_ID": 703348160981893220,
+        "Storage_Space_Embed_ID": 703348161535541309,
+        "Inventory": {
+            "4": {
+                "WorldID": "1",
+                "Quantity": 1,
+                "Character_Inventory_Embed": 703741327782838373
+            }
+        }
+    },
+    "2": {
+        "Inventory_Name": "Mark-3",
+        "Description": "Jeres trofaste droid der f\u00f8lger jer rundt",
+        "Used_Slots": 10,
+        "Bag_Slots": "75",
+        "Picture": "https://media.discordapp.net/attachments/617058546558959616/690207844812980261/tumblr_ppgcvgrKJX1ro0ixho1_1280.jpg?width=456&height=638",
+        "Kreditter": 20,
+        "Imperille Kreditter": 0,
+        "Skindene Sten": 0,
+        "Inventory_Category_ID": 703721549965819995,
+        "Store_Items_Channel_ID": 703721551194751027,
+        "Inventory_Channel_ID": 703721554818629664,
+        "Currency_Embed_ID": 703721560149590046,
+        "Storage_Space_Embed_ID": 703721561009422376,
+        "Inventory": {
+            "2": {
+                "WorldID": "2",
+                "Quantity": 1,
+                "Character_Inventory_Embed": 703728390603276288
+            }
+        }
+    }
+}

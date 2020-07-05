@@ -1,0 +1,35 @@
+{
+    "1": {
+        "ItemName": "Akero Rifel",
+        "Description": "Sniper Rifel",
+        "Stats": "Skydev\u00e5ben",
+        "StatsModifier": "+2",
+        "Type": "Weapon",
+        "Weight": "10",
+        "Value": "150",
+        "Picture": "https://media.discordapp.net/attachments/702891924775895070/703332739746889739/unknown.png",
+        "ItemsInWorldMsgID": 703342692351868999
+    },
+    "2": {
+        "ItemName": "Hebrews \u00d8kse",
+        "Description": "K\u00e6mpe \u00f8kse",
+        "Stats": "Sk\u00e6r igennem zombier som det var sm\u00f8r",
+        "StatsModifier": "",
+        "Type": "Weapon",
+        "Weight": "10",
+        "Value": "200",
+        "Picture": "https://media.discordapp.net/attachments/702891924775895070/703343822419132486/unknown.png?width=430&height=638",
+        "ItemsInWorldMsgID": 703343853733937203
+    },
+    "3": {
+        "ItemName": "Bj\u00f8rne F\u00e6lde",
+        "Description": "Ikke rar at tr\u00e6de p\u00e5",
+        "Stats": "None",
+        "StatsModifier": "",
+        "Type": "Static Items",
+        "Weight": "2",
+        "Value": "15",
+        "Picture": "https://media.discordapp.net/attachments/702891924775895070/703344152213061662/unknown.png?width=1075&height=638",
+        "ItemsInWorldMsgID": 703344190364581948
+    }
+}
