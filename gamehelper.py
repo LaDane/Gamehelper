@@ -107,7 +107,10 @@ for cog in os.listdir(".\\Inventory"):
 #             raise e 
 
 bot.loop.create_task(chng_pr()) # loops bot status change
-bot.run("Njk4NTQ1NzM3ODgwOTYxMDc0.XpHZjQ.kq2OtsAOMdz9QFfMTTvR5AOTLt0")
+
+with open("token/token.0", "r", encoding="utf-8") as f:
+    TOKEN = f.read()
+bot.run(TOKEN)
 
 
 # 6348 lines of code total - 23-04-2020
